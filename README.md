@@ -139,7 +139,7 @@ To have all of them center aligned, use this
 https://gssoc.girlscript.tech/leaderboard?year=<YEAR_BADGES>&username=<GITHUB_USENAME>
 ```
 
-### PostMan Badge Light
+### PostMan Badge Light  
 ```
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" /> 
 ```
